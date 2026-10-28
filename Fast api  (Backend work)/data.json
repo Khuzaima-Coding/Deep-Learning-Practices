@@ -1,0 +1,63 @@
+{
+    "pool1": {
+        "name": "Ali",
+        "roll_no": 176578,
+        "age": 20,
+        "father_name": "noman",
+        "salary": 90
+    },
+    "pool2": {
+        "name": "Zeeshan",
+        "roll_no": 1765570,
+        "age": 22,
+        "father_name": "Farhan",
+        "salary": 94
+    },
+    "pool3": {
+        "name": "Adnan",
+        "roll_no": 17698270,
+        "age": 28,
+        "father_name": "Usman",
+        "salary": 90
+    },
+    "pool4": {
+        "name": "Subhan",
+        "roll_no": 1767370,
+        "age": 22,
+        "father_name": "Farodn",
+        "salary": 93
+    },
+    "pool5": {
+        "name": "Islam",
+        "roll_no": 176670,
+        "age": 22,
+        "father_name": "Farooq",
+        "salary": 98
+    },
+    "poo56": {
+        "name": "Salman",
+        "roll_no": 754478,
+        "age": 20,
+        "father_name": "nomaaan",
+        "salary": 90
+    },
+    "poo32": {
+        "name": "Salman",
+        "roll_no": 754478,
+        "age": 20,
+        "father_name": "nomaaan",
+        "salary": 90
+    },
+    "pool21": {
+        "name": "Farhan",
+        "roll no": 789229,
+        "age": 20,
+        "father name": "Bilaal",
+        "salary": 60
+    },
+    "3200q": {
+        "name": "Ali",
+        "age": 90,
+        "course": "cloud"
+    }
+}
